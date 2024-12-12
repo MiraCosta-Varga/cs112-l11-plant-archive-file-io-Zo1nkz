@@ -10,7 +10,7 @@ public class Main {
 
 		Plant test = new Plant("Stinging Nettle,65,anti-inflammatory and culinary");
 		System.out.println("test plant:\n" + test + "\n\n");
-
+		//COMPLETE
 		// TODO: Step 2 - Declare + initialize variables for file input here
 		Scanner inputFile = null;
 		ArrayList<Plant> myPlants = new ArrayList<Plant>();
